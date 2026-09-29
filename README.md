@@ -79,3 +79,8 @@ Shaders are loaded from the relative path `shaders/`, so run the binary from a d
 - Outline thickness is in world space, so it varies with distance.
 - Inverted hull outlines can show gaps on sharp edges when normals are not smoothed.
 - Models need normals and UV coordinates.
+
+## Authors
+
+- Anis Feore
+- Alexis Meunier
